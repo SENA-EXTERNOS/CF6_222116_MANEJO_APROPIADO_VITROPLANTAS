@@ -159,7 +159,7 @@
       .py-3.py-md-4(titulo="Primer paso")
         .row.justify-content-center
           .col-lg-6.order-2.order-lg-1.mb-4.mb-lg-0
-            p.margin-left-linea.margin-left.mb-2.mt-5 Para esto, debe generarse limpieza de las raíces de cada uno de los ejemplares y, seguidamente, realizar su siembra en el sustrato.
+            p.margin-left.mb-2.mt-5 Para esto, debe generarse limpieza de las raíces de cada uno de los ejemplares y, seguidamente, realizar su siembra en el sustrato.
           .col-lg-6.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-21.svg', alt='').img400.m-auto            
@@ -167,7 +167,7 @@
       .py-3.py-md-4(titulo="Segundo paso")
         .row.justify-content-center
           .col-lg-6.order-2.order-lg-1.mb-4.mb-lg-0
-            p.margin-left-linea.mt-5 Posteriormente, llevar a cabo el cubrimiento con plástico o traslado a la cámara húmeda, según sea el caso, de manera que se permita conservar las condiciones de humedad acordes con las exigencias de los individuos.
+            p.margin-left.mt-5 Posteriormente, llevar a cabo el cubrimiento con plástico o traslado a la cámara húmeda, según sea el caso, de manera que se permita conservar las condiciones de humedad acordes con las exigencias de los individuos.
           .col-lg-6.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-22.svg', alt='').img400.m-auto            
