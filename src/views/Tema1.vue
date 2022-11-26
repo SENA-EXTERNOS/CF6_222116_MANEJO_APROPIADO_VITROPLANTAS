@@ -44,7 +44,7 @@
         
           .col-md-5
             figure(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema1/tema1-img-07.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/tema1-img-07.png', alt='Texto que describa la imagen')
 
         .row(titulo="Proceso de endurecimiento").justify-content-around.align-items-center 
           .col-md-7.mb-4.mb-md-0(data-aos="flip-right")
@@ -52,7 +52,7 @@
         
           .col-md-5
             figure(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema1/tema1-img-08.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/tema1-img-08.svg', alt='Texto que describa la imagen')
 
         .row(titulo="Fase de generación del sistema radicular").justify-content-around.align-items-center 
           .col-md-7.mb-4.mb-md-0(data-aos="flip-right")
@@ -313,22 +313,22 @@
         figure
           img(src='@/assets/curso/temas/tema1/tema1-img-41.svg', alt='Texto que describa la imagen')
 
-      .tarjeta.color-blanco.p-3(x="17.3%" y="39%" numero="")
+      .tarjeta.color-blanco.p-3(x="10.3%" y="39%" numero="")
         p.mb-0 #[b Intensidad (veces por semana):] 2
         p.mb-0 #[b Dosis líquido:] 2 mL/L
         p #[b Dosis granulado:] 1 g/L
 
-      .tarjeta.color-blanco.p-3(x="32.5%" y="27%" numero="")
+      .tarjeta.color-blanco.p-3(x="25.5%" y="27%" numero="")
         p.mb-0 #[b Intensidad (veces por semana):] 3
         p.mb-0 #[b Dosis líquido:] 4 mL/L
         p #[b Dosis granulado:] 3 g/L
 
-      .tarjeta.color-blanco.p-3(x="44%" y="13.5%" numero="")
+      .tarjeta.color-blanco.p-3(x="37%" y="13.5%" numero="")
         p.mb-0 #[b Intensidad (veces por semana):] 3
         p.mb-0 #[b Dosis líquido:] 5 mL/L
         p #[b Dosis granulado:] 4 g/L
 
-      .tarjeta.color-blanco.p-3(x="79.6%" y="80.1%" numero="")
+      .tarjeta.color-blanco.p-3(x="72.6%" y="80.1%" numero="")
         p.mb-0 #[b Intensidad (veces por semana):] 3
         p.mb-0 #[b Dosis líquido:] 6 mL/L
         p #[b Dosis granulado:] 5 g/L    

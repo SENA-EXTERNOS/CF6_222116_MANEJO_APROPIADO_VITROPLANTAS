@@ -152,22 +152,22 @@ export default {
     datosSlyder: [
       {
         texto:
-          'La consolidación del material vegetal es fundamental puesto que las plántulas obtenidas a través de esta técnica carecen de la fortaleza necesaria para la enfrentar las condiciones ambientales <i>ex vitro</i>, además de no contar con las características funcionales para obtener los nutrientes de un medio natural como es el suelo. ',
+          'Si bien la plántula establece nuevas condiciones de captura de nutrientes y distribución de los mismos a lo largo de su estructura, también debe responder a las condiciones del ambiente que serán diferentes a las condiciones controladas a las que se encontraba habituada y, además, serán cambiantes, ocasionando episodios de estrés que pueden ser determinantes para la supervivencia de la plántula. El logro de superación de este capítulo de redefinición del comportamiento mismo del ejemplar, se configura como la “prueba de fuego” del ejercicio en general.',
         imagen: require('@/assets/curso/temas/tema2/tema2-img-04.svg'),
       },
       {
         texto:
-          'En tal sentido, se hace indispensable generar las condiciones que induzcan en la plántula el desarrollo de las condiciones que le permitan establecerse como un organismo autótrofo, siendo esto el objetivo central en sí mismo, de manera que la plántula pueda adaptarse a los diferentes contextos productivos donde sea requerido el material vegetal para su establecimiento definitivo.',
+          'Esta aclimatación, que es específicamente el nombre que recibe la última fase del proceso de micropropagación in vitro, permite a la planta alcanzar un crecimiento y desarrollo bajo condiciones de menor humedad relativa, una intensidad de luz superior, en un sustrato si bien séptico, diferente al sustrato proporcionado por el medio de cultivo y, por lo tanto, también exigente en términos de adaptación. ',
         imagen: require('@/assets/curso/temas/tema2/tema2-img-05.svg'),
       },
       {
         texto:
-          'La consolidación de vitroplantas aborda elementos asociados a los cuidados y manipulación necesaria de las plántulas para promover el proceso de adaptación y, de manera complementaria a esto, los elementos requeridos para la sanidad, nutrición y riego, así como el respectivo seguimiento que debe ser llevado a cabo.',
+          'Esta aclimatación, debe ajustarse en la medida de las exigencias encontradas en el proceso mediante la observación; en otras palabras, no se cuenta una fórmula constante que permita obtener invariablemente el resultado esperado, puesto que es una fase que justamente se concentra en el desarrollo de condiciones por parte de la plántula para poder responder a las exigencias propias de un panorama marcado por la variabilidad.',
         imagen: require('@/assets/curso/temas/tema2/tema2-img-06.svg'),
       },
       {
         texto:
-          'La consolidación de vitroplantas aborda elementos asociados a los cuidados y manipulación necesaria de las plántulas para promover el proceso de adaptación y, de manera complementaria a esto, los elementos requeridos para la sanidad, nutrición y riego, así como el respectivo seguimiento que debe ser llevado a cabo.',
+          'Partiendo de este principio, puede asumirse como un estadio de promoción de cierta tolerancia y superación de las adversidades, de una forma similar a como lo realizan las plantas obtenidas mediante procesos de reproducción convencional sexual o asexual que, en múltiples sentidos, cuentan con la capacidad de enfrentar los escenarios ambientales y sanitarios cambiantes y exigentes, logrando salir airosos en proporciones dominantes.',
         imagen: require('@/assets/curso/temas/tema2/tema2-img-07.svg'),
       },
     ],

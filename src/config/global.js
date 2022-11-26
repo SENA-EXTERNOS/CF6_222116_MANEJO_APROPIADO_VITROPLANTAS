@@ -224,7 +224,7 @@ export default {
     {
       termino: '<i>Ex vitro</i>',
       significado:
-        'Fuera del vidrio; en el contexto de la micropropagación in vitro, refiere al sometimiento a condiciones ambientales y sanitarias no controladas',
+        'Fuera del vidrio; en el contexto de la micropropagación in vitro, refiere al sometimiento a condiciones ambientales y sanitarias no controladas.',
     },
     {
       termino: 'Fitoxicidad',
