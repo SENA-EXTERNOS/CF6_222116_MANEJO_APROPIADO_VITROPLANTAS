@@ -9,11 +9,11 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-4 Este componente formativo se encuentra integrado por temas asociados a la consolidación de las vitroplantas, en cuanto a los elementos necesarios para proporcionar las condiciones inmediatas que garanticen el establecimiento definitivo de los nuevos organismos generados mediante la micropropagación in vitro; esto significa el abordaje de situaciones y condiciones relacionadas con el tipo de sustratos de transición, los aspectos de sanidad y nutrición a considerar, así como la regulación del proceso de adaptación al entorno y las condiciones ambientales.
-
     .row.justify-content-around.align-items-center
       .col-lg-6
-        p.index-dos Bienvenidos al sexto componente formativo del programa técnico en Propagación Masiva de Material Vegetal del SENA, denominado Manejo Apropiado de Vitroplantas, donde se profundizará en el concepto de endurecimiento de plántulas y la aclimatación necesaria para concluir la producción in vitro de material vegetal. Para comprender este conjunto de condiciones complejas, se abordan diferentes aspectos que proporcionan la posibilidad de aprender a definir el tipo de sustrato vegetal a ser utilizado para el proceso de endurecimiento, así como los procedimientos relacionados con el trasplantado de las vitroplantas y los condicionantes para la consolidación de las mismas, entre los que se destaca la necesidad de utilización de agroinsumos y una oportuna lectura del comportamiento progresivo de las plántulas; además de esto, se abordan también condiciones asociadas al uso del agua y la gestión de los residuos sólidos. Lo invitamos a iniciar este recorrido observando el video de introducción del componente formativo.
+        .index-dos
+          p Apreciado aprendiz, bienvenido a este componente formativo, donde se profundizará en el concepto de endurecimiento de plántulas y la aclimatación necesaria para concluir la producción in vitro de material vegetal. Para comprender este conjunto de condiciones complejas, se estudiarán diferentes aspectos que proporcionan la posibilidad de aprender a definir el tipo de sustrato vegetal a ser utilizado para el proceso de endurecimiento, así como también los procedimientos relacionados con el trasplante de las vitroplantas y los condicionantes para la consolidación de las mismas, entre los que se destaca la necesidad de utilización de agroinsumos y una oportuna lectura del comportamiento progresivo de las plántulas; además de esto, se abordan también condiciones asociadas al uso del agua y la gestión de los residuos sólidos.
+          p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:        
       .col-lg-6
         img(src="@/assets/curso/introduccion/intro-img-01.svg", alt="alt")
 

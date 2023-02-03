@@ -52,36 +52,6 @@ export default {
             titulo: 'Trasplantado de vitroplantas',
             hash: 't_1_2',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Adaptación vegetal',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Prendimiento vegetal',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Sanidad vegetal',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Selección y dosificación de agroinsumos',
-            hash: 't_1_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Mecanismos de seguimiento al proceso',
-            hash: 't_1_7',
-          },
         ],
       },
 
@@ -91,32 +61,6 @@ export default {
         numero: '2',
         titulo: 'Sostenimiento de condiciones para la consolidación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Identificación de condiciones agroambientales',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Identificación de calidad del agua',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Funcionamiento y frecuencia del sistema de riego',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Gestión de residuos en el endurecimiento',
-            hash: 't_2_4',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -163,39 +107,39 @@ export default {
     {
       tema: 'Consolidación de vitroplantas',
       referencia:
-        'Ramos-Amaya, JE. (2012). Avances de la micropropagación in vitro de plantas leñosas. Proyecto de grado especialización en Biotecnología Agraria, Universidad Nacional Abierta y a Distancia.',
+        'Ramos-Amaya, J. E. (2012). <i>Avances de la micropropagación in vitro de plantas leñosas</i>. Proyecto de grado especialización en Biotecnología Agraria, Universidad Nacional Abierta y a Distancia. ',
       tipo: 'Proyecto de grado (especialización)',
       link:
         'https://repository.unad.edu.co/bitstream/handle/10596/2515/17127974.pdf;jsessionid=F81E99C24EF92EFB56FB2197A6D90B67.jvm1?sequence=1',
     },
     {
-      tema: 'Prácticas aclimatación',
+      tema: 'Consolidación de vitroplantas',
       referencia:
-        'Cruz-Pizarro, F. (2012). Micropropagación (manual de prácticas). Universidad Nacional Autónoma de México.',
+        'Cruz-Pizarro, F. (2012).<i> Micropropagación (manual de prácticas)</i>. Universidad Nacional Autónoma de México.',
       tipo: 'Manual',
       link:
         'http://portal.cuautitlan.unam.mx/manuales/micropropagacion_manualprac.pdf',
     },
     {
-      tema: 'Protocolos propagación algunas especies',
+      tema: 'Consolidación de vitroplantas',
       referencia:
-        'Cárdenas, A. Espinoza, R. (2014). Guía Práctica de Cultivo In Vitro de Especies Vegetales. Universidad Politécnica Salesiana.',
+        'Cárdenas, A. y Espinoza, R. (2014). <i>Guía Práctica de Cultivo In Vitro de Especies Vegetales</i>. Universidad Politécnica Salesiana.',
       tipo: 'Guía',
       link:
         'https://dspace.ups.edu.ec/bitstream/123456789/9611/1/UPS-QT07914.pdf',
     },
     {
-      tema: 'Trasplantado',
+      tema: 'Consolidación de vitroplantas',
       referencia:
-        'Escobar, RH. Caicedo, E. Muñoz, L. Ríos, A. Azcárate, A. Dorado, C. Tohme, J. (2012). El cultivo in vitro: otra manera de propagar yuca. ISNB-978-958-694-111-2.',
+        'Escobar, R. H., Caicedo, E., Muñoz, L., Ríos, A., Azcárate, A., Dorado, C. & Tohme, J. (2012). <i>El cultivo in vitro: otra manera de propagar yuca</i>.',
       tipo: 'Guía',
       link:
         'http://ciat-library.ciat.cgiar.org/Articulos_Ciat/biblioteca/el_cultivo_in_vitro_otra_manera_propagar_yuca.pdf',
     },
     {
-      tema: 'Trasplante y aclimatación',
+      tema: 'Consolidación de vitroplantas',
       referencia:
-        'Cruz, B. (2018). Aclimatación de cultivo <i>in vitro</i> a <i>ex vitro</i>.',
+        'Cruz, B. (2018).<i> Aclimatación de cultivo in vitro a ex vitro</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-TocB5Mchy8',
     },
@@ -224,7 +168,7 @@ export default {
     {
       termino: '<i>Ex vitro</i>',
       significado:
-        'Fuera del vidrio; en el contexto de la micropropagación in vitro, refiere al sometimiento a condiciones ambientales y sanitarias no controladas.',
+        'fuera del vidrio; en el contexto de la micropropagación in vitro, refiere al sometimiento a condiciones ambientales y sanitarias no controladas.',
     },
     {
       termino: 'Fitoxicidad',
@@ -255,24 +199,24 @@ export default {
   referencias: [
     {
       referencia:
-        'Montes-Cruz, S. Lalama-Aguirre, JM. Echeverría-Félix, JM. Salzar-Torres, SM. (2016). Factores bióticos y abióticos en la aclimatación de las vitroplantas en invernadero. En: Dominio de las Ciencias (2) pp. 63-89',
+        'Montes-Cruz, S., Lalama-Aguirre, J. M., Echeverría-Félix, J. M. & Salzar-Torres, S. M. (2016). Factores bióticos y abióticos en la aclimatación de las vitroplantas en invernadero.<i> Dominio de las Ciencias</i>, (2), p. 63-89.',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5761558',
     },
     {
       referencia:
-        'Roca, WM. Mroginski, LA. (1993). Cultivo de tejidos en la agricultura. ISNB-958-9183-15-8. ',
+        'Roca, W. M. y Mroginski, L. A. (1993). <i>Cultivo de tejidos en la agricultura</i>.',
       link:
         'http://ciat-library.ciat.cgiar.org/Articulos_Ciat/biblioteca/Cultivo_de_tejidos_en_la_agricultura.pdf',
     },
     {
       referencia:
-        'Sánchez-Rodríguez, LA. Saavedra-Hortúa, D. Romero, HM. (2012). Aclimatación y endurecimiento de materiales de palma de aceite obtenidos mediante técnicas de cultivo de tejidos vegetales. En: Palmas (33) (4) pp.41-52',
+        'Sánchez-Rodríguez, L. A. Saavedra-Hortúa, D. & Romero, H. M. (2012). Aclimatación y endurecimiento de materiales de palma de aceite obtenidos mediante técnicas de cultivo de tejidos vegetales. <i>Palmas, 33</i>(4), p. 41-52.',
       link:
-        'https://docplayer.es/41760216-Aclimatacion-y-endurecimiento-de-materiales-de-palma-de-aceite-obtenidos-mediante-tecnicas-de-cultivo-de-tejidos-vegetales.html ',
+        'https://docplayer.es/41760216-Aclimatacion-y-endurecimiento-de-materiales-de-palma-de-aceite-obtenidos-mediante-tecnicas-de-cultivo-de-tejidos-vegetales.html',
     },
     {
       referencia:
-        'Suárez-Padrón, I (2020). Cultivo de tejidos vegetales. ISNB-978-958-5104-09-9. ',
+        'Suárez-Padrón, I. (2020). <i>Cultivo de tejidos vegetales.</i>',
       link:
         'https://repositorio.unicordoba.edu.co/handle/ucordoba/2553#:~:text=El%20cultivo%20de%20tejidos%20vegetales,agr%C3%ADcola%20y%20la%20investigaci%C3%B3n%20vegetal.',
     },
