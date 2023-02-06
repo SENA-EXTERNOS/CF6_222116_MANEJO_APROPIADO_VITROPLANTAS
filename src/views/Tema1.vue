@@ -146,8 +146,6 @@
         figure
           img(src='@/assets/curso/temas/tema1/tema1-img-19.svg', alt='Texto que describa la imagen')
 
-    img(src='@/assets/curso/temas/tema1/tema1-decorativa-01.svg', alt='Texto que describa la imagen').tema1-decorativa-01
-
     separador
     #t_1_2.titulo-segundo.color-acento-contenido.mt-4
       h2 1.2 Trasplante de vitroplantas
@@ -180,21 +178,21 @@
 
     .clr-background-1
       .row.justify-content-around.align-items-center        
-        .col-lg-11     
-          SlyderF(columnas="col-lg-6 col-xl-4").mt-5.mb-5
-            .tarjeta.color-secundario.p-4
+        .col-lg-11.up     
+          SlyderF(columnas="col-lg-6").mt-5.mb-5
+            .tarjeta.color-secundario.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/tema1/tema1-img-25.svg' alt='AvatarTop')
               p.text-center Realizar cuidadoso lavado de raíces, buscando eliminar residuos del medio de cultivo, con una baja afectación a las débiles estructuras celulares presentes (pelos absorbentes).
 
-            .tarjeta.color-secundario.p-4
+            .tarjeta.color-secundario.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/tema1/tema1-img-26.svg' alt='AvatarTop')
               p.text-center Desarrollar inmersión de las plántulas en solución auxínica de 0,1mg/L, en aras de promover el proceso de crecimiento y desarrollo del sistema radicular.
 
-            .tarjeta.color-secundario.p-4
+            .tarjeta.color-secundario.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/tema1/tema1-img-27.svg' alt='AvatarTop')
@@ -215,21 +213,21 @@
     .slyderB_bg_02.px-5.py-4.mb-5.mt-3
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="01")
               p.mt-1 La totalidad de la fase de aclimatación es un proceso de adaptación, razón que origina que cada uno de los pasos o acciones que la integren, proporcionen elementos enfocados en alcanzar la meta para la generación de capacidad autotrófica en las plantas obtenidas, como es el caso de la selección de sustrato y el mecanismo de trasplante; desde ese momento se empieza a gestar, inducir y facilitar, la transición de las plántulas; tal es el caso de la cobertura de plástico que permite el mantenimiento de las condiciones de humedad, después del sembrado transitorio.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-30.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
               p.mt-1 Una vez transcurridos 15 días del trasplante al sustrato, se debe iniciar el levantamiento del plástico en horarios concordantes con los momentos de menor calor, sea en horas del inicio de la mañana o en horas del final de la tarde, sometiendo las plántulas a las condiciones ambientales en invernadero durante periodos de 30 minutos en la primera semana, 60 minutos desde la segunda semana, la totalidad del día y tapadas durante la noche, desde cumplido el primer mes, hasta el momento en el que las plántulas empiecen a generar hojas nuevas, momento en el que pueden dejarse destapadas de forma total y permanente. (Suárez Padrón, 2020).
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-31.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="03")
               p.mt-1 Resulta pertinente resaltar que las vitroplantas tienden a enfrentar, de una mejor manera, la fase de aclimatación cuando hay utilización de micorrizas, pues la simbiosis que estas generan ocasionan un mejoramiento en los procesos de captación y asimilación de nutrientes como el fósforo (de baja movilidad en la plántula), reducción de estrés hídrico y mejoramiento de funcionamiento fotosintético y estomático, además de promover, en algunos casos, la defensa frente a organismos patógenos, incremento del desarrollo foliar y radicular, así como también, en cuanto a la producción de hormonas.
           .col-lg-6
@@ -243,14 +241,14 @@
     .slyderB_bg_03.px-5.py-4.mb-3.mt-3
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="01")
               p.mt-5 Tan pronto como se obtienen las plántulas, se realiza una clasificación donde se identifique la cantidad de las idénticas que cumplen con los requerimientos de producción establecidos por el laboratorio; es importante definir esto para filtrar la cantidad básica con las que se debe trabajar, de manera que no excedan las capacidades logísticas y operativas del lugar. El punto óptimo de este proceso, se encuentra estrechamente relacionado con el sostenimiento de flujo de plántulas hacia la fase de endurecimiento, que pueda cubrir la demanda de plantas en el mercado objeto y el mantenimiento de una base de producción <i>in vitro.</i>
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-34.svg')
         .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
               p.mt-5 Se entiende la fase de aclimatación, como el paso más crítico del proceso de micropropagación de material vegetal, debido a que gran parte de los ejemplares no logra superar esta desafiante transición del medio controlado al medio no controlado; es vital para el ejercicio productivo identificar el porcentaje de sobrevivencia logrado, una vez concluida la actividad o lote procesado, generando la relación entre el material adaptado y el material sembrado inicialmente, siendo un dato de referencia para la estimación de costos y la posible toma de decisiones frente a la viabilidad de la especie, variedad, lote, entre otros.
           .col-lg-6
@@ -338,28 +336,28 @@
     .slyderB_bg_02.px-5.py-4.mb-5.mt-3
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="01")
               p.mt-5 El éxito del proceso de micropropagación <i>in vitro</i> de material vegetal, al tratarse de un conjunto de actividades que demanda precisión y conservación de condiciones controladas de cultivo, necesita del reconocimiento permanente del comportamiento de las diferentes variables que configuran el desarrollo de las distintas prácticas del ensayo. 
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-43.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
               p.mt-5 Este seguimiento no concluye con la obtención de las plántulas que se logran propagar del material inicialmente obtenido, toda vez que esta obtención solo se valida cuando este material vegetal es sometido a las condiciones <i>ex vitro</i> y logra una adaptación positiva a las condiciones ambientales y el desarrollo de su capacidad autotrófica.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-44.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="03")
               p.mt-5 En tal sentido, es necesario establecer un registro oportuno de las diferentes variables que indican, de manera progresiva, el desarrollo del endurecimiento o adaptación de las plántulas a las nuevas condiciones preámbulo del destino final del material obtenido. En este caso, la vigorosidad de las plantas se convierte en un aspecto indicador de valor determinante, puesto que desde la observación directa permite identificar las condiciones de respuesta en tiempo real. 
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-45.svg')   
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="04")
               p.mt-5 Entre las variables que se pueden referenciar o investigar en las vitroplantas para esta fase, se reconoce la altura, coloración, cantidad de brotes, cantidad de hojas, largo y ancho de hojas, número y longitud entre nudos, diámetro del tallo, entre otras.
           .col-lg-6

@@ -11,7 +11,7 @@
       .col-lg-7.up
         p.mt-3 En este tema sobre la consolidación, se hace énfasis sobre las condiciones del entorno inmediato de la plántula que, apropiadas de forma adecuada, pueden permitir la consolidación de la misma, pero también se puede dar alguna falencia relacionada, lo que puede significar el fracaso en la posibilidad de endurecimiento del material vegetal obtenido. Entre los temas que se presentan, tenemos la identificación de las condiciones agroambientales, elemento imperativo en esta fase, puesto que es el referente con respecto al cual, la plántula debe definir su respuesta; una condición similar se establece con los demás temas, específicamente la relación de la planta con el agua y, de igual forma, con la gestión de residuos de la fase. 
 
-        p Lo invitamos a ver el siguiente video donde se profundiza el tema sobre la aclimatación de las plántulas, luego de haber recibido el acondicionamiento para una buena consolidación.        
+        p Lo invitamos a ver el siguiente video donde se profundiza el tema sobre la aclimatación de las plántulas, luego de haber recibido el acondicionamiento para una buena consolidación:        
       .col-lg-5
         img(src='@/assets/curso/temas/tema2/tema2-img-01.svg', alt='Texto que describa la imagen')
 
@@ -95,21 +95,21 @@
     .slyderB_bg_04.px-5.py-4.mb-5.mt-3
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="01")
               p.mt-1 El suministro de agua a las plántulas en consolidación, es un elemento crucial para posibilitar el desarrollo óptimo del proceso de aclimatación al medio<i> ex vitro</i>. Siendo fundamental la generación de una adecuada hidratación de la plántula para su supervivencia, debe proporcionarse, en el entorno productivo del laboratorio y del invernadero, un suministro de agua apropiado para la fase de transición que representa el paso del medio de cultivo al sustrato de siembra, panorama en el que se cuenta con diferentes necesidades y alternativas, dependiendo de las características de las especies a propagar y del tipo de establecimiento productivo que sirve como escenario del ensayo.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-12.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
               p.mt-1 Para los casos donde se presenta la posibilidad de contar con cámara húmeda para el desarrollo de la etapa de transición, se recomienda la aplicación del sistema de riego por medio de nebulización; en casos más rudimentarios, aplicar el riego mediante aspersión con pulverizadora manual. En todo caso, debe garantizarse un control sobre el nivel de humedad en los recipientes tipo almacigueras, a partir del mantenimiento de un ambiente húmedo a nivel del sustrato. De todas maneras, es necesario identificar las condiciones específicas del tipo de humedad tolerable por la especie propagada, pues excesos de agua en especies que no lo toleren, pueden derivar en la afectación grave al material.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-img-13.svg')
         .row.justify-content-center.my-lg-4
-          .col-lg-6.mb-1.mb-lg-0
+          .col-lg-5.mb-1.mb-lg-0
             .number(data-number="03")
               p.mt-1 En concordancia con los requerimientos particulares de cada especie y las diferentes etapas de aclimatación del material vegetal, se determina el volumen de agua y frecuencia de riego durante las semanas siguientes que corresponden a la etapa de adaptación a las condiciones de invernadero donde se encuentran a plena exposición las plántulas. El planteamiento estándar indica la realización de al menos un riego cada 24 horas; para aquellas especies con bajo requerimiento hídrico, se debe focalizar el riego sobre los ejemplares con mayor necesidad, pues excesos de agua pueden ocasionar la aparición de hongos, así como pudrición de raíces.
           .col-lg-6
