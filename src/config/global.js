@@ -118,7 +118,7 @@ export default {
         'Cruz-Pizarro, F. (2012).<i> Micropropagación (manual de prácticas)</i>. Universidad Nacional Autónoma de México.',
       tipo: 'Manual',
       link:
-        'http://portal.cuautitlan.unam.mx/manuales/micropropagacion_manualprac.pdf',
+        'http://ri.uaemex.mx/bitstream/handle/20.500.11799/64552/secme-12254.pdf?sequence=',
     },
     {
       tema: 'Consolidación de vitroplantas',
