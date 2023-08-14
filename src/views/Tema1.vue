@@ -373,7 +373,7 @@ export default {
     datosSlyder: [
       {
         texto:
-          'La consolidación del material vegetal es fundamental puesto que las plántulas obtenidas a través de esta técnica carecen de la fortaleza necesaria para la enfrentar las condiciones ambientales <i>ex vitro</i>, además de no contar con las características funcionales para obtener los nutrientes de un medio natural como es el suelo. ',
+          'La consolidación del material vegetal es fundamental, puesto que las plántulas obtenidas a través de esta técnica carecen de la fortaleza necesaria para enfrentar las condiciones ambientales <i>ex vitro</i>, además de no contar con las características funcionales para obtener los nutrientes de un medio natural como es el suelo. ',
         imagen: require('@/assets/curso/temas/tema1/tema1-img-01.svg'),
       },
       {

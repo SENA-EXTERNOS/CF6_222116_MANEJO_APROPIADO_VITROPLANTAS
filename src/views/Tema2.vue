@@ -38,7 +38,7 @@
               .col-11
                 SlyderB.mb-5.mt-5.color-btn2(:datos="datosSlyder")   
 
-    p.mt-4 Esta condición, hace que sea necesario comprender e interpretar las condiciones agroambientales que deben mantenerse, hasta el momento en el que es posible controlarlas y, la respuesta que debe inducirse a las mismas, en lo que respecta a las plántulas. Por esta razón, se propone:                       
+    p.mt-4 Esta condición hace que sea necesario comprender e interpretar las condiciones agroambientales que deben mantenerse, hasta el momento en el que es posible controlarlas y, la respuesta que debe inducirse a las mismas, en lo que respecta a las plántulas. Por esta razón, se propone:                       
 
     .puntos-calientes-t2
       ImagenInfografica.color-primario(data-aos="fade-left")
@@ -159,12 +159,12 @@ export default {
       },
       {
         texto:
-          'Esta aclimatación, que es específicamente el nombre que recibe la última fase del proceso de micropropagación <i>in vitro</i>, permite a la planta alcanzar un crecimiento y desarrollo bajo condiciones de menor humedad relativa, una intensidad de luz superior, en un sustrato si bien séptico, diferente al sustrato proporcionado por el medio de cultivo y, por lo tanto, también exigente en términos de adaptación. ',
+          'Esta aclimatación que es específicamente el nombre que recibe la última fase del proceso de micropropagación <i>in vitro</i>, permite a la planta alcanzar un crecimiento y desarrollo bajo condiciones de menor humedad relativa, una intensidad de luz superior, en un sustrato si bien séptico, diferente al sustrato proporcionado por el medio de cultivo y, por lo tanto, también exigente en términos de adaptación. ',
         imagen: require('@/assets/curso/temas/tema2/tema2-img-05.svg'),
       },
       {
         texto:
-          'Esta aclimatación, debe ajustarse en la medida de las exigencias encontradas en el proceso, mediante la observación; en otras palabras, no se cuenta con una fórmula constante que permita obtener invariablemente el resultado esperado, puesto que es una fase que justamente se concentra en el desarrollo de condiciones por parte de la plántula para poder responder a las exigencias propias de un panorama marcado por la variabilidad.',
+          'Esta aclimatación debe ajustarse en la medida de las exigencias encontradas en el proceso, mediante la observación; en otras palabras, no se cuenta con una fórmula constante que permita obtener invariablemente el resultado esperado, puesto que es una fase que justamente se concentra en el desarrollo de condiciones por parte de la plántula para poder responder a las exigencias propias de un panorama marcado por la variabilidad.',
         imagen: require('@/assets/curso/temas/tema2/tema2-img-06.svg'),
       },
     ],
