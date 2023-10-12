@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Manejo apropiado de vitroplantas',
     descripcionCurso:
-      'Este componente formativo se encuentra integrado por temas asociados a la consolidación de las vitroplantas, en cuanto a los elementos necesarios para proporcionar las condiciones inmediatas que garanticen el establecimiento definitivo de los nuevos organismos generados mediante la micropropagación in vitro.',
+      'Este componente formativo se encuentra integrado por temas asociados a la consolidación de las vitroplantas, en cuanto a los elementos necesarios para proporcionar las condiciones inmediatas que garanticen el establecimiento definitivo de los nuevos organismos generados mediante la micropropagación <i>in vitro</i>.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

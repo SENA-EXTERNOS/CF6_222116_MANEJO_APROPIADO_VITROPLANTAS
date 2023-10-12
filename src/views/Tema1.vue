@@ -40,7 +40,7 @@
 
         .row(titulo="Fase de acondicionamiento - Parte 2").justify-content-around.align-items-center 
           .col-md-7.mb-4.mb-md-0(data-aos="flip-right")
-            p.mt-1.margin-left-linea Este conjunto de condiciones, genera en la plántula un tipo de características, acordes con la levedad manifiesta de dicho entorno de propagación; entre estas se resalta, por su nivel de relevancia, la menor producción de cera en la superficie de las hojas, el incorrecto funcionamiento de estomas y del sistema radicular, características que ocasionan una mayor fragilidad frente a fenómenos de deshidratación que pueden derivar en la muerte del ejemplar; por lo tanto, no es viable exponer la plántula de manera directa e inmediata, a las condiciones naturales (luz solar, temperatura variable, necesidad de absorción tanto de nutrientes como agua desde el suelo), puesto que el resultado más probable será la mortalidad, debido a la imposibilidad por parte de las plántulas, para adaptarse en un periodo de tiempo definido por la inmediatez y gravedad de las exigencias asociadas, principalmente, a la alta transpiración vegetal.
+            p.mt-1.margin-left-linea Este conjunto de condiciones, genera en la plántula tipos de características, acordes con la levedad manifiesta de dicho entorno de propagación; entre estas se resalta, por su nivel de relevancia, la menor producción de cera en la superficie de las hojas, el incorrecto funcionamiento de estomas y del sistema radicular, características que ocasionan una mayor fragilidad frente a fenómenos de deshidratación que pueden derivar en la muerte del ejemplar; por lo tanto, no es viable exponer la plántula de manera directa e inmediata, a las condiciones naturales (luz solar, temperatura variable, necesidad de absorción tanto de nutrientes como agua desde el suelo), puesto que el resultado más probable será la mortalidad, debido a la imposibilidad por parte de las plántulas, para adaptarse en un periodo de tiempo definido por la inmediatez y gravedad de las exigencias asociadas, principalmente, a la alta transpiración vegetal.
         
           .col-md-5
             figure(data-aos="fade-right")
@@ -196,7 +196,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/temas/tema1/tema1-img-27.svg' alt='AvatarTop')
-              p.text-center Llevar a cabo siembra en sustrato previamente organizado, guardando las medidas respectivas de precaución en la manipulación de la raíz, para no afectar sus diferentes partes por fricción o compresión indebida.
+              p.text-center Llevar a cabo la siembra en sustrato previamente organizado, guardando las medidas respectivas de precaución en la manipulación de la raíz, para no afectar sus diferentes partes por fricción o compresión indebida.
 
     .row.justify-content-around.mt-5
       .col-lg-5
@@ -229,7 +229,7 @@
         .row.justify-content-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="03")
-              p.mt-1 Resulta pertinente resaltar que las vitroplantas tienden a enfrentar, de una mejor manera, la fase de aclimatación cuando hay utilización de micorrizas, pues la simbiosis que estas generan ocasionan un mejoramiento en los procesos de captación y asimilación de nutrientes como el fósforo (de baja movilidad en la plántula), reducción de estrés hídrico y mejoramiento de funcionamiento fotosintético y estomático, además de promover, en algunos casos, la defensa frente a organismos patógenos, incremento del desarrollo foliar y radicular, así como también, en cuanto a la producción de hormonas.
+              p.mt-1 Resulta pertinente resaltar que las vitroplantas tienden a enfrentar, de una mejor manera, la fase de aclimatación cuando hay utilización de micorrizas, pues la simbiosis que estas generan, ocasionan un mejoramiento en los procesos de captación y asimilación de nutrientes como el fósforo (de baja movilidad en la plántula), reducción de estrés hídrico y mejoramiento de funcionamiento fotosintético y estomático, además de promover, en algunos casos, la defensa frente a organismos patógenos, incremento del desarrollo foliar y radicular, así como también, en cuanto a la producción de hormonas.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-32.svg')              
@@ -243,14 +243,14 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="01")
-              p.mt-5 Tan pronto como se obtienen las plántulas, se realiza una clasificación donde se identifique la cantidad de las idénticas que cumplen con los requerimientos de producción establecidos por el laboratorio; es importante definir esto para filtrar la cantidad básica con las que se debe trabajar, de manera que no excedan las capacidades logísticas y operativas del lugar. El punto óptimo de este proceso, se encuentra estrechamente relacionado con el sostenimiento de flujo de plántulas hacia la fase de endurecimiento, que pueda cubrir la demanda de plantas en el mercado objeto y el mantenimiento de una base de producción <i>in vitro.</i>
+              p.mt-5 Tan pronto como se obtienen las plántulas, se realiza una clasificación donde se identifique la cantidad de plántulas las idénticas que cumplen con los requerimientos de producción establecidos por el laboratorio; es importante definir esto para filtrar la cantidad básica con las que se debe trabajar, de manera que no excedan las capacidades logísticas y operativas del lugar. El punto óptimo de este proceso, se encuentra estrechamente relacionado con el sostenimiento de flujo de plántulas hacia la fase de endurecimiento, que pueda cubrir la demanda de plantas en el mercado objeto y el mantenimiento de una base de producción <i>in vitro.</i>
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-34.svg')
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-5.mb-1.mb-lg-0
             .number(data-number="02")
-              p.mt-5 Se entiende la fase de aclimatación, como el paso más crítico del proceso de micropropagación de material vegetal, debido a que gran parte de los ejemplares no logra superar esta desafiante transición del medio controlado al medio no controlado; es vital para el ejercicio productivo identificar el porcentaje de sobrevivencia logrado, una vez concluida la actividad o lote procesado, generando la relación entre el material adaptado y el material sembrado inicialmente, siendo un dato de referencia para la estimación de costos y la posible toma de decisiones frente a la viabilidad de la especie, variedad, lote, entre otros.
+              p.mt-5 Se entiende la fase de aclimatación, como el paso más crítico del proceso de micropropagación de material vegetal, debido a que gran parte de los ejemplares no logra superar esta desafiante transición del medio controlado al medio no controlado; es vital para el ejercicio productivo identificar el porcentaje de supervivencia logrado, una vez concluida la actividad o lote procesado, generando la relación entre el material adaptado y el material sembrado inicialmente, siendo un dato de referencia para la estimación de costos y la posible toma de decisiones frente a la viabilidad de la especie, variedad, lote, entre otros.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-img-35.svg')

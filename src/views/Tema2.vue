@@ -50,13 +50,13 @@
           p En las primeras dos semanas de la fase de aclimatación o periodo de tiempo inmediatamente posterior al trasplante, deben controlarse las condiciones ambientales, de manera que se aproximen lo máximo posible, a las condiciones que se presentaban <i>in vitro.</i>
 
         .tarjeta.color-blanco.p-3(x="47%" y="47%" numero="2")
-          p Lo anterior, en aras de reducir al mínimo el exceso de transpiración, mientras se establecen los elementos para conservación de una elevada humedad relativa (cercana al 100 %) que permita el desarrollo adecuado de estomas y cutícula, siendo el lugar propicio para la generación de este microclima, la cámara húmeda, permitiendo una temperatura de 12 ± 2 ºC. 
+          p Lo anterior, en aras de reducir al mínimo el exceso de transpiración, mientras se establecen los elementos para conservación de una elevada humedad relativa (cercana al 100%) que permita el desarrollo adecuado de estomas y cutícula, siendo el lugar propicio para la generación de este microclima, la cámara húmeda, permitiendo una temperatura de 12 ± 2ºC. 
 
         .tarjeta.color-blanco.p-3(x="65%" y="12%" numero="3")
           p En caso de no contar con la cámara húmeda, el recubrimiento con plástico de los recipientes en los cuales se ha procedido a generar el sembrado de las plántulas, presenta la misma funcionalidad (con niveles de mano de obra superiores), pero dichos plásticos deben perforarse paulatinamente, hasta quedar eliminados en un periodo de 10 a 15 días.
 
         .tarjeta.color-blanco.p-3(x="48%" y="83%" numero="4")
-          p Luego de esta primera etapa, las plántulas deben ser trasladas al exterior de la cámara húmeda o integradas al invernadero (dependiendo del método desarrollado), donde la humedad relativa puede ubicarse entre el 40 % y 60 %, sombra al 70 % y el riego a capacidad de campo, estimándose una duración en esta etapa de hasta 30 días.
+          p Luego de esta primera etapa, las plántulas deben ser trasladas al exterior de la cámara húmeda o integradas al invernadero (dependiendo del método desarrollado), donde la humedad relativa puede ubicarse entre el 40% y 60%, sombra al 70% y el riego a capacidad de campo, estimándose una duración en esta etapa de hasta 30 días.
     
     h3.mt-4 Identificación de calidad del agua 
 
@@ -138,7 +138,7 @@
       .col-lg-5
         img(src='@/assets/curso/temas/tema2/tema2-img-15.svg', alt='Texto que describa la imagen')(data-aos="fade-left") 
 
-    p.my-5 El endurecimiento del material vegetal obtenido se presenta como una etapa fundamental del proceso de aclimatación requerido, para finalizar el ejercicio de micropropagación in vitro, siendo el pináculo del experimento que determina el logro de los objetivos del ensayo y que implica una compleja red de situaciones que se enfocan tanto en el fortalecimiento y promoción de ciertas dinámicas en la plántula, como en la interpretación apropiada de las condiciones del entorno a las que debe adaptarse la misma.
+    p.my-5 El endurecimiento del material vegetal obtenido se presenta como una etapa fundamental del proceso de aclimatación requerido, para finalizar el ejercicio de micropropagación <i>in vitro</i>, siendo el pináculo del experimento que determina el logro de los objetivos del ensayo y que implica una compleja red de situaciones que se enfocan tanto en el fortalecimiento y promoción de ciertas dinámicas en la plántula, como en la interpretación apropiada de las condiciones del entorno a las que debe adaptarse la misma.
 
     .row.justify-content-center.align-items-center     
       .col-lg-8    
