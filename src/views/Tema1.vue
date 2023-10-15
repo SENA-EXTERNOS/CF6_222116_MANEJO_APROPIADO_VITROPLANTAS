@@ -148,7 +148,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido.mt-4
-      h2 1.2 Trasplante de vitroplantas
+      h2 1.2 Trasplantado de vitroplantas
 
     p.mt-3 Posterior a la selección del sustrato más apropiado para el endurecimiento del material propagado, es necesario realizar el trasplante del mismo desde el medio de cultivo respectivo, al sustrato previamente organizado en contenedores tipo almaciguera, siendo este un procedimiento que reviste un cuidadoso seguimiento de precauciones que permitan una manipulación apropiada de las frágiles plántulas. 
 
